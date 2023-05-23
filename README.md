@@ -7,7 +7,7 @@
 
 - 🌱 I’m graduated from **FPT University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cabeo0210](https://github.com/TantyG)
+- 👨‍💻 All of my projects are available at [https://github.com/TantyG](https://github.com/TantyG)
 
 - 💬 Ask me about **C,Java,C#,HTML&CSS,Javascript**
 
