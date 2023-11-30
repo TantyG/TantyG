@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tantyg&show_icons=true&locale=en&layout=compact" alt="tantyg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabeo0210&show_icons=true&locale=en" alt="tantyg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tantyg&show_icons=true&locale=en" alt="tantyg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tantyg&" alt="tantyg" /></p>
